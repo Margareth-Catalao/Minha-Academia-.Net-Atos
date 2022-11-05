@@ -1,0 +1,24 @@
+#container{
+    width:300px;
+    display:flex;
+    flex-direction:column;
+    gap:5px;
+    border:1px solid gray;
+    padding:5px;
+  }
+  .gray{
+    background-color:gray;
+  }
+  
+  .size{
+    display:flex;
+    align-items:flex-end;
+    height:45px;
+    color:yellow;
+    padding-left:30px;
+  }
+  span:hover{
+    color:gray;
+    background:yellow;
+  }
+  

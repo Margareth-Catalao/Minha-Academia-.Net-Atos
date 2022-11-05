@@ -1,0 +1,25 @@
+#container{
+    width:700px;
+    height:600px;
+    display:flex;
+    flex-direction:column;
+    gap:5px;
+  }
+  .blue{
+    background-color:blue;
+  }
+  .green{
+   background-color:green;
+  }
+  .red{
+    background-color:red;
+  }
+  .purple{
+    background-color:purple;
+  }
+  .size{
+    display:flex;
+    align-items:center;
+    height:60px;
+  }
+  
